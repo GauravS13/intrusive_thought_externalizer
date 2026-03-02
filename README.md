@@ -23,9 +23,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/DhruvP2205/intrusive-thought-externalizer?style=social" alt="Stars" />
-  <img src="https://img.shields.io/github/forks/DhruvP2205/intrusive-thought-externalizer?style=social" alt="Forks" />
-  <img src="https://img.shields.io/github/issues/DhruvP2205/intrusive-thought-externalizer?style=social" alt="Issues" />
+  <img src="https://img.shields.io/github/stars/GauravS13/intrusive_thought_externalizer?style=social" alt="Stars" />
+  <img src="https://img.shields.io/github/forks/GauravS13/intrusive_thought_externalizer?style=social" alt="Forks" />
+  <img src="https://img.shields.io/github/issues/GauravS13/intrusive_thought_externalizer?style=social" alt="Issues" />
 </p>
 
 <br/>
@@ -33,7 +33,7 @@
 <p align="center">
   <b>⚡ Quick Start:</b>
   <br/>
-  <code>git clone https://github.com/DhruvP2205/intrusive-thought-externalizer.git && cd intrusive-thought-externalizer && npm install && npm run dev</code>
+  <code>git clone https://github.com/GauravS13/intrusive_thought_externalizer.git && cd intrusive_thought_externalizer && npm install && npm run dev</code>
 </p>
 
 <br/>
@@ -274,8 +274,8 @@ intrusive-thought-externalizer/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/intrusive-thought-externalizer.git
-cd intrusive-thought-externalizer
+git clone https://github.com/GauravS13/intrusive_thought_externalizer.git
+cd intrusive_thought_externalizer
 ```
 
 ### 2. Install Dependencies
