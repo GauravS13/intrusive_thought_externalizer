@@ -174,13 +174,33 @@ Static, clinically-appropriate templates explain *what just happened*, *why this
 
 ---
 
-## 🎬 Live Interactive Demo
+## 🎬 Demo Video
 
-> See the complete 5-stage AI defusion pipeline in action, turning a fearful intrusive thought into a whimsical character in real-time.
+> Watch the complete 5-stage AI defusion pipeline in action — turning a fearful intrusive thought into a whimsical cartoon character in real-time.
 
 <p align="center">
-  <img src="./public/screenshots/demo.webp" alt="Interactive Live WebP Demo" width="100%" style="border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 8px 32px rgba(0,0,0,0.5);" />
+  <a href="https://drive.google.com/file/d/1GquBmJWLFv2pp3Fn0XKM8J9gdJkBLWg8/view?usp=sharing">
+    <img src="./public/screenshots/demo.webp" alt="▶ Click to watch the full demo video" width="100%" style="border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 8px 32px rgba(0,0,0,0.5);" />
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1GquBmJWLFv2pp3Fn0XKM8J9gdJkBLWg8/view?usp=sharing">
+    <img src="https://img.shields.io/badge/▶_Watch_Full_Demo-Google_Drive-FF8A5C?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=0F0E17" alt="Watch Demo on Google Drive" />
+  </a>
+</p>
+
+<details>
+<summary>💡 <strong>Can't see the video above?</strong> Click here for direct playback</summary>
+<br/>
+
+<p align="center">
+  <video src="./demo/intrusive_thought_externalizer.mp4" width="100%" controls>
+    Your browser does not support the video tag. <a href="https://drive.google.com/file/d/1GquBmJWLFv2pp3Fn0XKM8J9gdJkBLWg8/view?usp=sharing">Watch on Google Drive instead →</a>
+  </video>
+</p>
+
+</details>
 
 ---
 
